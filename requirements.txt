@@ -1,0 +1,6 @@
+ipykernel
+tensorflow
+streamlit
+pickle
+PIL
+numpy
