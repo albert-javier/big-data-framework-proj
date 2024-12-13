@@ -1,5 +1,4 @@
 ipykernel
 tensorflow
 streamlit
-pickle5
 numpy
